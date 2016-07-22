@@ -1,14 +1,14 @@
 {
   "name": "hello-world-plus",
-  "version": "1.0.0",
-  "description": "Prints \"Hello World!\" in the console. Accepts either a string or an array of strings as an argument.",
+  "version": "1.0.2",
+  "description": "Prints 'Hello World!' in the console.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/roberttaraya/hello-world.git"
+    "url": "git+https://github.com/roberttaraya/hello-world-plus.git"
   },
   "keywords": [
     "hello",
@@ -17,7 +17,7 @@
   "author": "Robert Taraya",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/roberttaraya/hello-world/issues"
+    "url": "https://github.com/roberttaraya/hello-world-plus/issues"
   },
-  "homepage": "https://github.com/roberttaraya/hello-world#readme"
+  "homepage": "https://github.com/roberttaraya/hello-world-plus#readme"
 }

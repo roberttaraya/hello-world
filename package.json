@@ -1,7 +1,7 @@
 {
   "name": "hello-world",
   "version": "1.0.0",
-  "description": "Prints \"Hello World!\" in the console",
+  "description": "Prints \"Hello World!\" in the console. Accepts either a string or an array of strings as an argument.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
